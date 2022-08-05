@@ -1,2 +1,2 @@
 # iOSdevelopment
-iOS development projects
+iOS projects and templates
